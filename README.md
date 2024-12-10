@@ -1,3 +1,7 @@
 # Master of Business Analytics
 
-[Test-1](https://www.google.com/)
+[Session 1](https://www.google.com/)
+* [BUSA8000](https://www.google.com/)
+* [BUSA6004](https://www.google.com/)
+* [COMP6010](https://www.google.com/)
+* [COMP6200](https://www.google.com/)
