@@ -4,8 +4,16 @@ This unit introduces students to the fundamental techniques and tools of data sc
 
 **Achieved: 89**
 
-## Assessments
-1. Assignment 1 (Individual) 
-2. Assignment 2 (Individual)
+## Projects
+1. [Weekly Practicals](https://github.com/audreyngnn/Master-of-Business-Analytics/tree/main/Technical%20Programming/COMP6200/COMP6200_Practicals)
+2. [Portfolio](https://github.com/audreyngnn/Master-of-Business-Analytics/tree/main/Technical%20Programming/COMP6200/COMP6200_Portfolio)
+3. [Critical Analysis Report](https://github.com/audreyngnn/Master-of-Business-Analytics/tree/main/Technical%20Programming/COMP6200/Critical%20Analysis%20Report)
 
-## Technical Skills: Python, Visual Studio Code, Jupyter Notebook, Github
+* [Course Notes](https://github.com/audreyngnn/Master-of-Business-Analytics/tree/main/Technical%20Programming/COMP6200/COMP6200_Notes)
+
+## Technical Skills
+* Python
+* Visual Studio Code
+* Google Colab
+* Jupyter Notebook
+* Github
