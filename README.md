@@ -5,7 +5,7 @@ _ Session 2: 2024
 * [BUSA8030: Management for Data, Analytics and Change](https://github.com/audreyngnn/Master-of-Business-Analytics/tree/main/BUSA8030)
 * [BUSA6430: Business Applications for Artificial Intelligence](https://github.com/audreyngnn/Master-of-Business-Analytics/tree/main/BUSA6430)
 
-## [Technical Programming](https://www.google.com/)
+## [Technical Programming]([https://www.google.com/](https://github.com/audreyngnn/Master-of-Business-Analytics/tree/main/Technical%20Programming))
 _ Session 1: 2024
 * [BUSA8000: Techniques in Business Analytics](https://github.com/audreyngnn/Master-of-Business-Analytics/tree/main/BUSA8000)
 * [BUSA6004: Introduction to Inference, Modelling and Forecasting](https://github.com/audreyngnn/Master-of-Business-Analytics/tree/main/BUSA6004)
