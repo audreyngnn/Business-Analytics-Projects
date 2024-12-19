@@ -5,12 +5,9 @@ This course focuses on decision-making, people management, and soft skills in an
 **Achieved: 83**
 
 ## Concepts
-- Three key areas related to digital transformation: Strategic Management, Project Management, and Change Management.
-- Four key areas of talent needed for successful digital transformation: Technology, Data, Process People, and Organizational Change Capability.
-- Three key differences between project management and change management based on the provided sources:
-  * Project management is focused on deliverables and outputs, while change management is focused on processes and outcomes.
-  * Project management has a defined endpoint, while change management is an ongoing process.
-  * Project management deals with a degree of novelty, while change management addresses transitions between current and future states. 
+- Big Data
+- Digital Transformation: Strategic Management, Project Management, and Change Management.
+- Key talent areas: Technology, Data, Process People, and Organizational Change Capability.
 
 
 ## Projects
