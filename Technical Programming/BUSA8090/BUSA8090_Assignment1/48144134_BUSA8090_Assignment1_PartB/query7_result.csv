@@ -1,0 +1,6 @@
+Course_ID,Course_Name,assigned_tasks,avg_bid_amount
+1,"Basic Plumbing",2,900000.000000
+2,"Advanced Electrical",2,2250000.000000
+3,"Carpentry Fundamentals",2,3500000.000000
+4,"HVAC Essentials",1,1200000.000000
+5,"Construction Techniques",0,NULL

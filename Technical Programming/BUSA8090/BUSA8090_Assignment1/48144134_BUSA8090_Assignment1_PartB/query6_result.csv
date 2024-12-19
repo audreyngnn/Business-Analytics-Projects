@@ -1,0 +1,6 @@
+Supplier_ID,SupplierName,total_orders,avg_fulfillment_time_indays,total_order_value
+4,"DinginSejuk AC",1,2.0000,1800000.00
+5,"BatuPerkasa Masonry",1,2.0000,1500000.00
+3,"KayuMakmur Materials",2,2.5000,8700000.00
+1,"PipaJaya Supplies",2,5.0000,2975000.00
+2,"ElektroMegah Parts",2,5.0000,5250000.00

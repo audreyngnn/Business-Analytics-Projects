@@ -1,0 +1,13 @@
+user_type,State,user_count
+Customer,"DKI Jakarta",2
+Customer,Bali,1
+Customer,"Jawa Tengah",1
+Customer,"Sumatera Utara",1
+Tradesperson,"DKI Jakarta",2
+Tradesperson,"Jawa Timur",2
+Tradesperson,Bali,1
+Tradesperson,"DI Yogyakarta",1
+Tradesperson,"Jawa Barat",1
+Tradesperson,"Jawa Tengah",1
+Tradesperson,"Sulawesi Selatan",1
+Tradesperson,"Sumatera Selatan",1
