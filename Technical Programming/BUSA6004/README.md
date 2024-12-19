@@ -9,3 +9,13 @@ This unit provides the quantitative/statistical research tools, data analysis an
 2. [Assignment 2 Report](https://github.com/audreyngnn/Master-of-Business-Analytics/blob/main/Technical%20Programming/BUSA6004/BUSA6004%20-%20Assignment%202.pdf)
 
 ## Technical Skills: Math, Excel
+- Variation measures and Normal distribution
+- Statistical Inference
+- Hypothesis testing and One sample tests
+- Correlation and Forecasting
+- Analysis of Categorical Data (Chi-square goodness of fit test)
+- Two sample tests (Two-sample z-test, Two-sample t-test, Two-sample Wilcoxon test)
+- Analysis of variance (One-way and two-way ANOVA)
+- Binary logistic regression
+- Statistical distributions and probabilities
+- Advanced correlation and Forecasting
