@@ -6,9 +6,9 @@ This unit looks at practical applications of AI systems in a business context, i
 
 ## Assessments
 1. [AI Industry Case Study: John Holland](https://github.com/audreyngnn/Master-of-Business-Analytics/blob/main/Business%20Strategy/BUSA6430/BUSA6430%20-%20Individual%20Assignment.pdf)
-   Case Study: John Holland
+> Case Study: [John Holland](https://github.com/audreyngnn/Master-of-Business-Analytics/blob/main/Business%20Strategy/BUSA6430/BUSA6430%20John%20Holland%20News.pdf)
 3. [Team Project: Vitural Pet - StudyPaws](https://github.com/audreyngnn/Master-of-Business-Analytics/blob/main/Business%20Strategy/BUSA6430/BUSA6430_Group%209_Final%20Assignment.docx)
-   Contribution: Team Lead (Initial Research, Idea Generation and Marketing Strategy)
-   Team Members: Ted Nguyen (AI Applications), Tracy Tran (Revenue Streams), Irene Lin (Launch Strategy)
+> Contribution: Team Lead (Initial Research, Idea Generation and Marketing Strategy)
+> Team Members: Ted Nguyen (AI Applications), Tracy Tran (Revenue Streams), Irene Lin (Launch Strategy)
 
 ## Business Skills: AI Critical Thinking and Analysing, AI Market Research and Problem-Solving in Dynamic Environment
