@@ -1,6 +1,6 @@
 # Master of Business Analytics (2024 - 2025)
 
-## [Business Strategy](https://www.google.com/)
+## [Business Strategy]([https://www.google.com/](https://github.com/audreyngnn/Master-of-Business-Analytics/tree/main/Business%20Strategy))
 _ Session 2: 2024
 * [BUSA8030: Management for Data, Analytics and Change](https://github.com/audreyngnn/Master-of-Business-Analytics/tree/main/BUSA8030)
 * [BUSA6430: Business Applications for Artificial Intelligence](https://github.com/audreyngnn/Master-of-Business-Analytics/tree/main/BUSA6430)
