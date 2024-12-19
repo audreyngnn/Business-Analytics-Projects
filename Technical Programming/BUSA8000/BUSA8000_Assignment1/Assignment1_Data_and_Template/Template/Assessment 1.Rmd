@@ -1,0 +1,67 @@
+---
+title: "Assesssment 1 - COVID-19 impact on digital learning"
+author: Provide Student Name and Student ID
+output: word_document
+date: "2024-03-17"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+## 1. Data Cleaning and Wrangling  
+**Describe and show the data cleaning, transformation and wrangling process' that you have completed. Ensure you provide justification of any data handling and transformation you have completed.**
+
+
+<br>
+<br>
+
+you can embed your transfomration code and provide justification like this:  
+
+example: This code creates x and y variable, i have created these variable so that i can add these to my data frame and compute the required measures. Please remember to use comments in your code.
+
+```{r, summary-stats, echo=TRUE}
+x <- 1:10    # create an x variable
+y <- 10:1    # create a y variable
+dataf <- data.frame(x = x, y = y)
+
+summary(dataf)
+```
+  
+\newpage
+
+
+## 2. Data Visualisation
+**Provide evidence of your visualisation techniques and the reason for your choice of visual tools. Provide a description of each visualisation you are presenting. There is no need to show your code.**
+
+<br>
+
+You can also embed plots, and provide reason for your choice like this:  
+
+example: I have used the below visualisation technique because .... 
+
+This visualisation shows the following...
+
+
+```{r, simple-plot, echo=FALSE}
+x <- 1:10    # create an x variable
+y <- 10:1    # create a y variable
+dataf <- data.frame(x = x, y = y)
+plot(dataf$x, dataf$y, xlab = "x axis", ylab = "y axis")
+```
+
+\newpage
+
+
+## 3. Findings  
+**Clearly explain your findings and provide a valid conclusion of your analysis. References may be used if required.(max 500 words) **
+
+
+
+
+
+
+
+<!-- Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot. -->
