@@ -9,7 +9,9 @@ This course focuses on decision-making, people management, and soft skills in an
 ## Reports
 1. [Indiviudal Case Study: UK's Home Office](https://github.com/audreyngnn/Master-of-Business-Analytics/blob/main/Business%20Strategy/BUSA8030/BUSA8030_Individual_Assignment.pdf)
   
-2. [Group_Sustainability in Healthcare Industry: SDG 3]
+2. **Group_Sustainability in Healthcare Industry: SDG 3**
+[Slides]
+[Comprehensive Project Report of ](https://github.com/audreyngnn/Master-of-Business-Analytics/blob/main/Business%20Strategy/BUSA8030/%5BBUSA8030%5D%20Group%209%20Report%209AM%20Fridays.pdf)
 * Team Lead: Audrey Nguyen
 * Team Contributors
 - Tracy Tran
