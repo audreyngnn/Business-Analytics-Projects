@@ -11,4 +11,7 @@ This unit looks at practical applications of AI systems in a business context, i
 > Contribution: Team Lead (Initial Research, Idea Generation and Marketing Strategy)
 > Team Members: Ted Nguyen (AI Applications), Tracy Tran (Revenue Streams), Irene Lin (Launch Strategy)
 
-## Business Skills: AI Critical Thinking and Analysing, AI Market Research and Problem-Solving in Dynamic Environment
+## Business Skills: 
+- AI Critical Thinking and Analysing
+- AI Market Research
+- Problem-Solving in Current Dynamic Environment
