@@ -2,7 +2,7 @@
 
 ## [Session 1 - January 2024](https://www.google.com/)
 * [BUSA8000: Techniques in Business Analytics](https://www.google.com/)
-* [BUSA6004: Introduction to Inference, Modelling and Forecasting](https://www.google.com/)
+* [BUSA6004: Introduction to Inference, Modelling and Forecasting](https://github.com/audreyngnn/Master-of-Business-Analytics/tree/main/BUSA6004)
 * [COMP6010: Foundations of Computer Programming](https://www.google.com/)
 * [COMP6200: Data Science](https://www.google.com/)
 
