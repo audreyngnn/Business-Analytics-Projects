@@ -5,7 +5,7 @@ This unit provides the quantitative/statistical research tools, data analysis an
 **Achieved: 92**
 
 ## Assessments
-1. Assignment 1 Report
+1. [Assignment 1 Report](https://github.com/audreyngnn/Master-of-Business-Analytics/blob/main/Technical%20Programming/BUSA6004/Assignment1_48144134.pdf)
 2. Assignment 2 Report
 
 ## Technical Skills: Excel
