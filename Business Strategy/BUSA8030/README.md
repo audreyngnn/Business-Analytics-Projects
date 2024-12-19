@@ -6,14 +6,26 @@ This course focuses on decision-making, people management, and soft skills in an
 
 ## Concepts
 
-## Reports
-1. [Indiviudal Case Study: UK's Home Office](https://github.com/audreyngnn/Master-of-Business-Analytics/blob/main/Business%20Strategy/BUSA8030/BUSA8030_Individual_Assignment.pdf)
-  
-2. **Group_Sustainability in Healthcare Industry: SDG 3**
-[Slides]
-[Comprehensive Project Report of ](https://github.com/audreyngnn/Master-of-Business-Analytics/blob/main/Business%20Strategy/BUSA8030/%5BBUSA8030%5D%20Group%209%20Report%209AM%20Fridays.pdf)
-* Team Lead: Audrey Nguyen
-* Team Contributors
-- Tracy Tran
-- Ted Nguyen
-- James Nguyen
+## Projects
+### Indiviudal Case Study: UK's Home Office
+[Comprehensive Report: Critical Analysis on UK Home Office DDaT's Strategy](https://github.com/audreyngnn/Master-of-Business-Analytics/blob/main/Business%20Strategy/BUSA8030/BUSA8030_Individual_Assignment.pdf)
+
+### Group Project: The Vietnam Antibiotic Resistance Resilience (VARR) Initiative
+1. [Slides: Brief on the VARR Initiative](https://github.com/audreyngnn/Master-of-Business-Analytics/blob/main/Business%20Strategy/BUSA8030/%5BBUSA8030%5D%20Group%209%20-%209AM%20Fridays.pdf)
+
+2. [Comprehensive Report of the VARR Initiative](https://github.com/audreyngnn/Master-of-Business-Analytics/blob/main/Business%20Strategy/BUSA8030/%5BBUSA8030%5D%20Group%209%20Report%209AM%20Fridays.pdf)
+
+3. Team Structure
+* Project Lead: Audrey Nguyen
+  * Conducted initial market research
+  * Led idea generation sessions
+  * Facilitated teamwork and collaboration
+  * Ensured quality control
+
+* Project Contributors
+  * Tracy Tran: Focused on youth antibiotic education and health monitoring
+  * Ted Nguyen: Specialized in nationwide healthcare data integration
+  * James Nguyen: Developed predictive analytics for antimicrobial resistance (AMR)
+
+  *The success of this project is a testament to the dedication and collaboration of the entire team.
+  Thank you all for your significant contributions and commitments! ^^*
