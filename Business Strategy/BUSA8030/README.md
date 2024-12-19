@@ -4,20 +4,14 @@ This course focuses on decision-making, people management, and soft skills in an
 
 **Achieved: 83**
 
-## Objectives:
-- Assess human, ethical, organisational and technical issues associated with data and business analytics.
-- Recognise and apply different perspectives to help organisations develop evidence-based and data-driven decision-making practices.
-- Design and conduct analysis to prepare organisations and employees for change.
-- Examine and (re)design business processes for successful use of business analytics initiatives and projects in organisations.
-- Examine and analyse fundamental digital technological needed for effective implementation of analytics projects.
+## Concepts
 
-## Structure:
-1. [Indiviudal Case Study]
-- Recognise and apply different perspectives to help organisations develop evidence-based and data driven decision making practices.
-- Examine and analyse fundamental digital technological needed for effective implementation of analytics projects.
+## Reports
+1. [Indiviudal Case Study: UK's Home Office](https://github.com/audreyngnn/Master-of-Business-Analytics/blob/main/Business%20Strategy/BUSA8030/BUSA8030_Individual_Assignment.pdf)
   
 2. [Group_Sustainability in Healthcare Industry: SDG 3]
-- Assess human, ethical, organisational and technical issues associated with data and business analytics.
-- Recognise and apply different perspectives to help organisations develop evidence-based and data-driven decision-making practices.
-- Design and conduct analysis to prepare organisations and employees for change.
-- Examine and (re)design business processes for successful use of business analytics initiatives and projects in organisations.
+* Team Lead: Audrey Nguyen
+* Team Contributors
+- Tracy Tran
+- Ted Nguyen
+- James Nguyen
