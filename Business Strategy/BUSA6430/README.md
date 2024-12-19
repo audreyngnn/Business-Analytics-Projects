@@ -11,7 +11,7 @@ This unit looks at practical applications of AI systems in a business context, i
 * Team Lead: Audrey Nguyen
   * Initial Research, Idea Generation and Marketing Strategy
 * Project Contributors:
-  * Ted Nguyen: AI Applications Specialist
+  * Ted Nguyen - AI Applications Specialist
   * Tracy Tran - Revenue Strategy Analyst
   * Irene Lin - Launch Strategy Coordinator
 
