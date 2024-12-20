@@ -9,7 +9,7 @@ This unit introduces students to the fundamental techniques and tools of data sc
 2. [Portfolio](https://github.com/audreyngnn/Master-of-Business-Analytics/tree/main/Technical%20Programming/COMP6200/COMP6200_Portfolio)
 3. [Critical Analysis Report](https://github.com/audreyngnn/Master-of-Business-Analytics/tree/main/Technical%20Programming/COMP6200/Critical%20Analysis%20Report)
 
-* [Course Notes](https://github.com/audreyngnn/Master-of-Business-Analytics/tree/main/Technical%20Programming/COMP6200/COMP6200_Notes)
+*[Course Notes](https://github.com/audreyngnn/Master-of-Business-Analytics/tree/main/Technical%20Programming/COMP6200/COMP6200_Notes)*
 
 ## Technical Skills
 * Python
