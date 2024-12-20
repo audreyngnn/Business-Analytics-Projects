@@ -5,7 +5,11 @@ This unit provides a foundation-level study of programming. The topics covered i
 **Achieved: 97**
 
 ## Assessments
-1. Assignment 1 (Individual) 
-2. Assignment 2 (Individual)
+1. [Assignment 1 (Individual)](https://github.com/audreyngnn/Master-of-Business-Analytics/tree/main/Technical%20Programming/COMP6010/COMP6010_Assignment1)
+2. [Assignment 2 (Individual)](https://github.com/audreyngnn/Master-of-Business-Analytics/tree/main/Technical%20Programming/COMP6010/COMP6010_Assignment2)
+3. [Weekly Practicals](https://github.com/audreyngnn/Master-of-Business-Analytics/tree/main/Technical%20Programming/COMP6010/Weekly%20Practicals)
 
-## Technical Skills: Python, Visual Studio Code
+## Technical Skills 
+* Python
+* Visual Studio Code
+* Github
