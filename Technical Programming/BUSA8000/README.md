@@ -14,4 +14,8 @@ This unit develops some of the core skills needed for the practice of modern bus
 * RStudio
 
 ## Teamwork Experience
-Here, I experienced an extremely hard challenge of dealing with what people normally call "a bad apple".
+During this course's team project, I faced a significant challenge in managing a disruptive team member, often referred to as "a bad apple," which had the potential to undermine the entire team's performance. And in fact, it did. 
+
+In this scenario, our professor advised us to address the issue promptly by making a collective decision to remove the disruptive individual from the team **as soon as any warning signs appeared** and report the matter to the professor for a timely resolution.
+
+I noted this here so it can act as a reminder for myself and all of my next projects. ^^ 
