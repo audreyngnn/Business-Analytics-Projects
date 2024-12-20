@@ -1,0 +1,20 @@
+The skyline includes point with id:81551, x: 603.09, y: 400.66
+The skyline includes point with id:149471, x: 602.15, y: 400.96
+The skyline includes point with id:73364, x: 600.34, y: 401.0
+The skyline includes point with id:212352, x: 600.26, y: 402.08
+The skyline includes point with id:286830, x: 600.15, y: 403.59
+The skyline includes point with id:112108, x: 600.11, y: 408.17
+The skyline includes point with id:101549, x: 609.02, y: 400.23
+The skyline includes point with id:143388, x: 608.8, y: 400.62
+The skyline includes point with id:192642, x: 600.05, y: 418.64
+The skyline includes point with id:285308, x: 612.96, y: 400.2
+The skyline includes point with id:108794, x: 618.96, y: 400.01
+The skyline includes point with id:229359, x: 617.52, y: 400.05
+The skyline includes point with id:255015, x: 600.03, y: 432.02
+The skyline includes point with id:19038, x: 600.02, y: 446.78
+The skyline includes point with id:118151, x: 684.62, y: 400.0
+The skyline includes point with id:246541, x: 600.01, y: 547.98
+The skyline includes point with id:56405, x: 600.0, y: 968.14
+
+Total execution time: 0.00000000000000000000 seconds
+Average time per skyline point: 0.00000000000000000000 seconds
