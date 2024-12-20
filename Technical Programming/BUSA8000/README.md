@@ -4,9 +4,9 @@ This unit develops some of the core skills needed for the practice of modern bus
 
 **Achieved: 85**
 
-## Assessments
-1. [Assignment 1 Report (Individual)](https://github.com/audreyngnn/Master-of-Business-Analytics/tree/main/Technical%20Programming/BUSA8000/BUSA8000_Assignment1) 
-2. [Assignment 2 Report (Group)](https://github.com/audreyngnn/Master-of-Business-Analytics/tree/main/Technical%20Programming/BUSA8000/BUSA8000_Assignment2)
+## Course Projects
+1. [Project 1 Report (Individual)](https://github.com/audreyngnn/Master-of-Business-Analytics/tree/main/Technical%20Programming/BUSA8000/BUSA8000_Assignment1) 
+2. [Project 2 Report (Group)](https://github.com/audreyngnn/Master-of-Business-Analytics/tree/main/Technical%20Programming/BUSA8000/BUSA8000_Assignment2)
 3. [Weekly Seminars](https://github.com/audreyngnn/Master-of-Business-Analytics/tree/main/Technical%20Programming/BUSA8000/Weekly%20Seminars)
 
 ## Technical Skills
