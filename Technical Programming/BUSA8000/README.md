@@ -9,7 +9,7 @@ This unit develops some of the core skills needed for the practice of modern bus
 2. [Assignment 2 Report (Group)](https://github.com/audreyngnn/Master-of-Business-Analytics/tree/main/Technical%20Programming/BUSA8000/BUSA8000_Assignment2)
 3. [Weekly Seminars](https://github.com/audreyngnn/Master-of-Business-Analytics/tree/main/Technical%20Programming/BUSA8000/Weekly%20Seminars)
 
-## Technical Skills: 
+## Technical Skills
 * R
 * RStudio
 
