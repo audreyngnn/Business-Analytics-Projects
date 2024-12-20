@@ -5,7 +5,7 @@ This unit emphasizes the business application of data and visualization, equippi
 **Achieved: 83**
 
 ## Assessments
-1. Individual Assignment 1: SQL
-2. Individual Assignment 2: Tableau & R
+1. [Individual Project 1: Database Design & SQL](https://github.com/audreyngnn/Master-of-Business-Analytics/tree/main/Technical%20Programming/BUSA8090/BUSA8090_Assignment1)
+2. [Individual Porject 2: Data Visualisation using Tableau & R](https://github.com/audreyngnn/Master-of-Business-Analytics/tree/main/Technical%20Programming/BUSA8090/BUSA8090_Assignment2)
 
 ## Technical Skills: ER Diagram, SQL, Tableau, R
